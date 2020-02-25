@@ -11,3 +11,5 @@ Short story writers may define their works as part of the artistic and personal 
 oh ok
 
 so this is how you save things to git
+
+I should probably write an actual short story.
