@@ -13,3 +13,8 @@ oh ok
 so this is how you save things to git
 
 I should probably write an actual short story.
+
+Make a change #<--- some change to the file
+git add --all #<--- take that file and add it to git
+git commit -m "SOME MESSAGE HERE" #<--- commits your file to git and gives it a name
+git push origin master #<--- adds file to GitHub
